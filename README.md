@@ -1,6 +1,6 @@
 # graphql-typescript
 
-Getting started with GraphQL and TypeScript using TypeGraphQL
+Getting started with GraphQL and TypeScript using TypeGraphQL - [https://pusher.com/tutorials/graphql-typescript](https://pusher.com/tutorials/graphql-typescript)
 
 ## Getting Started
 
